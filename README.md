@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrathmeshChurhe
+- 👋 Hi, I’m @pRATHmeshchurhe.
 - 👀 I’m interested in Blockchain,Web and App Development.
 - 🌱 I’m currently learning Blockchain Development and Django Pyhon Framework. 
 - 💞️ I’m looking to collaborate on Blockchain projects and Python Projects.
