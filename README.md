@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @pRATHmeshchurhe.
-- 👀 I’m interested in Blockchain,Web and App Development.
+- 👀 (skills) I’m interested in Python, Blockchain, Web Development.
 - 🌱 I’m currently learning Blockchain Development and Django Pyhon Framework. 
 - 💞️ I’m looking to collaborate on Blockchain projects and Python Projects.
 - 📫 Reach me on Github or Discord.
+
+Discord : Rath#8603
+
 
 <!---
 PrathmeshChurhe/PrathmeshChurhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
