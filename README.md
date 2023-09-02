@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @pRATHmeshchurhe.
-- 👀 (skills) I’m interested in Python, Blockchain, Web Development.
-- 🌱 I’m currently learning Blockchain Development and Django Pyhon Framework. 
-- 💞️ I’m looking to collaborate on Blockchain projects and Python Projects.
-- 📫 Reach me on Github or Discord.
-
-Discord : Rath#8603
+- 👀 (skills) Artificial Intelligence (Machine learning and Data Science).
+- 🌱 Interest on learning Deep learning and neural networks. 
+- 💞️ I’m looking to collaborate on AI/ML projects as well as python projects.
+- 📫 Frameworks Django/Flask.
 
 
 <!---
