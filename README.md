@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshchurhe" alt="prathmeshchurhe" /></a> </p>
 
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG4xNjZ0bm9oaDY4ZnIzYXVtcmhkN2F1YjM0MjdqODFrYTk2Zmt2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hnQDVKVARZ6w/giphy.gif" />
+
 - 🔭 I’m currently working on **AI-Driven Mental Health Prediction and Support**
 
 - 🌱 I’m currently learning **NLP, LLM, RAG**
@@ -19,17 +21,17 @@
 
 - 📫 How to reach me **churheprathmesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VtAAYHNfAUb7V3OZjNQ7de7Tyqys5GjG/view?usp=sharing](https://drive.google.com/file/d/1VtAAYHNfAUb7V3OZjNQ7de7Tyqys5GjG/view?usp=sharing)
+  - 📄 [Resume](https://drive.google.com/file/d/1VtAAYHNfAUb7V3OZjNQ7de7Tyqys5GjG/view?usp=sharing)
 
 - ⚡ Fun fact **Hard Otaku and love to play ... GAMES**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prathmeshchurhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
-<a href="https://kaggle.com/prathmeshchurhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prathmesh-churhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/prathmeshchurhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
 <a href="https://medium.com/@prathmeshchurhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathmeshchurhe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prathmeshchurhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prathmeshchurhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/churheprathmesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/churheprathmesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathmeshchurhe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
