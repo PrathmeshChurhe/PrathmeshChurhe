@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **churheprathmesh@gmail.com**
 
-  - 📄 [Resume](https://drive.google.com/file/d/1VtAAYHNfAUb7V3OZjNQ7de7Tyqys5GjG/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1VtAAYHNfAUb7V3OZjNQ7de7Tyqys5GjG/view?usp=sharing)
 
 - ⚡ Fun fact **Hard Otaku and love to play ... GAMES**
 
